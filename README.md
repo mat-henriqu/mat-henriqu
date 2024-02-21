@@ -9,9 +9,6 @@
 
 ## Sobre mim
 
-Graduando em Analise e desenvolvimento de Sistemas, atuo como Estagiario na empresa Kyros.
-## Sobre mim
-
 Olá! Sou o Matheus Henrique, graduando em Análise e Desenvolvimento de Sistemas. Atualmente, estou trabalhando como Estagiário na empresa Kyros, onde estou trabalhando com desenvolvimento de software.
 
 Desde cedo, descobri minha paixão por resolver problemas por meio da tecnologia, e desde então tenho me dedicado a aprender e aprimorar minhas habilidades. Sou um entusiasta de Java, SQL e Git, e estou constantemente expandindo meu conhecimento nessas áreas.
