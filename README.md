@@ -25,4 +25,5 @@ Além disso, estou aprimorando meus conhecimentos em desenvolvimento web, e esto
 ![Banco de Dados](https://img.shields.io/badge/Banco_de_Dados-blue)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
