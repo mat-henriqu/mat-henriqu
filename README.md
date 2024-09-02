@@ -29,7 +29,7 @@ Aqui você encontrará uma seleção de projetos que desenvolvi ao longo da minh
   - Utilizei uma ampla gama de habilidades, incluindo Java, Spring Boot, Banco de Dados, HTML, CSS, JavaScript, TypeScript, React, Next.js, Bootstrap, Tailwind e Shadcn. Atuei no desenvolvimento de aplicações web em um ambiente ágil, contribuindo com soluções e melhorias significativas para os projetos.
 
 - **Relotec Sistemas de Ponto e Acesso**
-  - *Estagiário em Suporte de Sistemas* | 4 meses
+  - *Suporte de Sistemas* | 4 meses
   - Atuei no suporte de sistemas de controle de ponto e acesso, auxiliando na resolução de problemas técnicos e garantindo o funcionamento eficiente das soluções.
 
 ## 📫 Contato
