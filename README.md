@@ -1,6 +1,6 @@
 # Matheus Henrique - Desenvolvedor Full Stack 👨🏻‍💻
 
-Bem-vindo ao meu repositório! Sou Matheus Henrique, um desenvolvedor Full Stack especializado em criar soluções web robustas e eficientes. Tenho experiência abrangente em diversas tecnologias que me permitem atuar tanto no frontend quanto no backend de projetos.
+Bem-vindo ao meu repositório! Sou Matheus Henrique, um desenvolvedor Front-end especializado em criar soluções web robustas e eficientes. Tenho experiência abrangente em diversas tecnologias que me permitem atuar tanto no frontend quanto no backend de projetos.
 
 ## 🔧 Habilidades Técnicas
 
