@@ -35,6 +35,17 @@ Bem-vindo ao meu repositório! Sou Matheus Henrique, um desenvolvedor Front-end 
 
 Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender novas ferramentas e aprimorar minhas habilidades. Minha abordagem ao desenvolvimento foca na entrega de produtos de alta qualidade, escaláveis e fáceis de manter. Acredito no poder da colaboração e em como o trabalho em equipe pode levar a resultados excepcionais.
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mat-henriqu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mat-henriqu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mat-henriqu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mat-henriqu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mat-henriqu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ## 🚀 Projetos
 
 Aqui você encontrará uma seleção de projetos que desenvolvi ao longo da minha carreira. Cada projeto foi pensado para resolver problemas reais, utilizando as melhores práticas de desenvolvimento e tecnologias de ponta.
