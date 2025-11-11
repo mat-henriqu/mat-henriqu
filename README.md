@@ -195,8 +195,7 @@ Início da jornada profissional com atuação ampla em desenvolvimento full stac
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mat-henriqu&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/mat-henriqu)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=mat-henriqu&theme=light)](https://github.com/mat-henriqu)
 </div>
 
 ---
