@@ -157,7 +157,7 @@ Início da jornada profissional com atuação ampla em desenvolvimento full stac
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mat-henriqu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/mat-henriqu)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mat-henriqu&theme=dark&hide_border=false)](https://github.com/mat-henriqu)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mat-henriqu&theme=react&hide_border=true&locale=pt)](https://github.com/mat-henriqu)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mat-henriqu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/mat-henriqu)
 
