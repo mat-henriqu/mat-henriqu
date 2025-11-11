@@ -145,7 +145,7 @@ Início da jornada profissional com atuação ampla em desenvolvimento full stac
 
 <div align="center">
 
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mat-henriqu&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/mat-henriqu)
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mat-henriqu&limit=5&theme=react&combine_all_yearly_contributions=true)](https://github.com/mat-henriqu)
 
 </div>
 
