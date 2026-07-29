@@ -48,7 +48,7 @@ Atuo na **Kyros Tecnologia | Fábrica de Software**, contribuindo em projetos in
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css&logoColor=1572B6)
 ![Angular Material](https://img.shields.io/badge/Angular_Material-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
@@ -79,10 +79,11 @@ Atuo na **Kyros Tecnologia | Fábrica de Software**, contribuindo em projetos in
 
 ### Inteligência artificial e aprendizado
 
+![Lovable](https://img.shields.io/badge/Lovable-0D1117?style=for-the-badge&logo=lovable&logoColor=FF5C5C)
+![Codex](https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logo=openai&logoColor=74AA9C)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![IA Generativa](https://img.shields.io/badge/IA_Generativa-0D1117?style=for-the-badge&logo=openai&logoColor=74AA9C)
 ![Engenharia de Prompt](https://img.shields.io/badge/Engenharia_de_Prompt-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot_Studio-0D1117?style=for-the-badge&logo=microsoft&logoColor=5E5E5E)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 ![Aprendizado Contínuo](https://img.shields.io/badge/Aprendizado_Contínuo-0D1117?style=for-the-badge&logo=google-scholar&logoColor=4285F4)
 
 ---
@@ -172,8 +173,8 @@ Como **Desenvolvedor Front-End Completo**, atuo na documentação e implementaç
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mat-henriqu&theme=github_dark" alt="Linguagens mais usadas em commits" />
 </a>
 
-<a href="https://git.io/streak-stats">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mat-henriqu&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img width="60%" src="https://streak-stats.demolab.com/?user=mat-henriqu&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
 </a>
 
 <a href="https://github.com/mat-henriqu">
@@ -190,25 +191,35 @@ Como **Desenvolvedor Front-End Completo**, atuo na documentação e implementaç
 
 <div align="center">
 
-<a href="https://github.com/mat-henriqu?achievement=quickdraw&tab=achievements">
-  <img width="96" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Achievement Quickdraw" />
-</a>
-<a href="https://github.com/mat-henriqu?achievement=pull-shark&tab=achievements">
-  <img width="96" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Achievement Pull Shark" />
-</a>
-<a href="https://github.com/mat-henriqu?achievement=yolo&tab=achievements">
-  <img width="96" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="Achievement YOLO" />
-</a>
-
-</div>
-
-| Achievement | Conquista |
-| :-- | :-- |
-| **Quickdraw** | Fechamento ágil de uma issue ou pull request. |
-| **Pull Shark** | Pull requests abertos e incorporados ao código. |
-| **YOLO** | Pull request incorporado sem revisão de código. |
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/mat-henriqu?achievement=quickdraw&tab=achievements">
+        <img width="96" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Achievement Quickdraw" />
+      </a><br /><br />
+      <strong>Quickdraw</strong><br />
+      <sub>Fechamento ágil de uma issue ou pull request.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/mat-henriqu?achievement=pull-shark&tab=achievements">
+        <img width="96" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Achievement Pull Shark" />
+      </a><br /><br />
+      <strong>Pull Shark</strong><br />
+      <sub>Pull requests abertos e incorporados ao código.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/mat-henriqu?achievement=yolo&tab=achievements">
+        <img width="96" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="Achievement YOLO" />
+      </a><br /><br />
+      <strong>YOLO</strong><br />
+      <sub>Pull request incorporado sem revisão de código.</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center"><a href="https://github.com/mat-henriqu?tab=achievements">Ver todos os achievements no GitHub →</a></p>
+
+</div>
 
 ---
 
