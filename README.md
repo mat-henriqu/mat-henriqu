@@ -1,153 +1,156 @@
 <div align="center">
-  
-# 👨🏻‍💻 Matheus Henrique
 
-### Desenvolvedor Full Stack | Transformando ideias em soluções digitais
+# Matheus Henrique
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mat-henriqu.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mat-henriqu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mat-henriqu)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mat_henriqu/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mat_henriqu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theush933@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-2592-1858)
+### Analista de Sistema VI | Desenvolvedor Front-End Completo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack;Especialista+em+React+%26+Next.js;Apaixonado+por+Tecnologia;Focado+em+Clean+Code;Sempre+Aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
+Desenvolvo produtos digitais com interfaces eficientes, integrações consistentes e documentação que transforma decisões técnicas em soluções sustentáveis.
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://mat-henriqu.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mat-henriqu)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mat-henriqu)
+[![E-mail](https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:theush933@gmail.com)
+
+`Angular` · `TypeScript` · `Node.js` · `APIs` · `Documentação técnica` · `IA aplicada`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=760&lines=Desenvolvedor+Front-End+Completo;Angular+%7C+TypeScript+%7C+Node.js;Interfaces%2C+integra%C3%A7%C3%B5es+e+documenta%C3%A7%C3%A3o;Aprendizado+cont%C3%ADnuo+e+IA+aplicada+%F0%9F%9A%80" alt="Áreas de atuação de Matheus Henrique" />
 
 </div>
 
 ---
 
-## 🎯 Sobre Mim
+## Sobre mim
 
-> **"Transformo café em código e ideias em realidade"** ☕💻
+Sou desenvolvedor com atuação focada em **Front-End**, construção de interfaces responsivas e evolução de aplicações web. Combino desenvolvimento, análise de fluxos, documentação técnica e colaboração no desenho de soluções para entregar produtos claros para quem usa e sustentáveis para quem mantém.
 
-Olá! Sou **Matheus Henrique**, desenvolvedor apaixonado por tecnologia e inovação, baseado em **Uberlândia, MG** 🇧🇷. Com experiência sólida em desenvolvimento **Front-End** e conhecimentos em **Back-End**, busco constantemente criar soluções web **robustas, escaláveis e eficientes**.
-
-🏠 **Working from home** | 🎓 **Aprendizado contínuo** | 🤝 **Trabalho em equipe** | 💡 **Solução de problemas**
-
-Atualmente trabalhando na **[Kyros Tecnologia](https://kyros.com.br)**, onde desenvolvo aplicações web modernas utilizando as melhores práticas do mercado e tecnologias de ponta.
-
----
-
-## 🚀 Stack Tecnológica
-
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Styling & UI
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-
-### 🛠️ Ferramentas & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### ☁️ Cloud & APIs
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-## 💼 Experiência Profissional
-
-### 🏢 Kyros Tecnologia | Fábrica de Software
-**📍 Uberlândia, MG - Remoto** | *Out 2023 - Presente (2 anos 2 meses)*
-
-#### 💼 Analista de Sistemas II
-**Abril 2025 - Presente** | *8 meses*
-
-Promovido a Analista de Sistemas II, atuo com **foco especializado em Front-End**, participando ativamente de:
-
-- 🎨 **Concepção e desenvolvimento de projetos** do zero
-- 📊 **Análise técnica de páginas** e componentes
-- 📝 **Documentação técnica** detalhada e padronizada
-- � **Definição de fluxos contínuos** e processos de desenvolvimento
-- 🏗️ **Arquitetura de componentes** reutilizáveis e escaláveis
-
-**Projetos e Impacto:**
-- 🏢 **3 Projetos Internos**: Modernização da gestão empresarial e processos internos
-- 🌐 **2 Projetos Externos**: Desenvolvimento de soluções para clientes
-- 📱 Criação de **telas responsivas** com alta qualidade visual
-- ⚙️ Definição de **processos bem estruturados** e documentados
-- � Implementação de **fluxo contínuo e dinâmico**
-- ✨ Garantia de **usabilidade** e **consistência visual** em todos os projetos
-
-**Stack Principal:**
-- 🔷 **Angular Framework** (principal)
-- 📦 **npm** (Gerenciamento de Pacotes)
-- 🎨 **TypeScript, HTML5, CSS3**
-- � **Metodologias Ágeis**
-
----
-
-#### 🎓 Estagiário de Desenvolvimento
-**Outubro 2023 - Abril 2025** | *1 ano 7 meses*
-
-Início da jornada profissional com atuação ampla em desenvolvimento full stack:
-
-**Responsabilidades:**
-- 🔧 **Ajustes de funções** e correções de bugs
-- 💡 **Criação de soluções** inovadoras para problemas complexos
-- 🔌 **Desenvolvimento de endpoints** RESTful com Spring Boot
-- 🖥️ **Criação de novas telas** e interfaces de usuário
-- � **Melhorias em processos e fluxos** para otimizar a experiência do usuário
-- ⚡ **Otimização de performance** em aplicações web
-
-**Stack Utilizada:**
-- ☕ **Backend**: Java, Spring Boot
-- 🗄️ **Banco de Dados**: SQL, MySQL, PostgreSQL
-- ⚛️ **Frontend**: React, Next.js, TypeScript, JavaScript
-- 🎨 **Styling**: HTML, CSS, Bootstrap, Tailwind CSS, Shadcn/ui
-- 🔄 **Ambiente Ágil** com metodologias Scrum/Kanban
-
-**Conquistas:**
-- ✅ Contribuições significativas em **múltiplos projetos**
-- ✅ Evolução técnica rápida resultando em **efetivação**
-- ✅ Desenvolvimento de **soluções escaláveis** e manuteníveis
-- ✅ Colaboração efetiva em **equipe multidisciplinar**
-
----
-
-### 🖥️ Relotec Sistemas de Ponto e Acesso
-**Suporte de Sistemas** | *4 meses*
-- 🔹 Suporte técnico para sistemas de **controle de ponto e acesso**
-- 🔹 Resolução de problemas técnicos e **troubleshooting**
-- 🔹 Garantia de **funcionamento eficiente** das soluções
-
----
-
-## 🎨 Projetos em Destaque
-
-### 🔥 Repositórios Mais Ativos
+Atuo na **Kyros Tecnologia | Fábrica de Software**, contribuindo em projetos internos e externos com foco em qualidade de código, arquitetura de componentes, integração com APIs, modelagem de dados e melhoria contínua dos processos de desenvolvimento.
 
 <div align="center">
 
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mat-henriqu&limit=5&theme=react&combine_all_yearly_contributions=true)](https://github.com/mat-henriqu)
+| Especialidade | Como contribuo |
+| :-- | :-- |
+| **Interfaces e experiência** | Componentização, responsividade, consistência visual e usabilidade. |
+| **Soluções técnicas** | Análise de requisitos, desenho de fluxos, APIs, DDLs e serviços de apoio ao front-end. |
+| **Engenharia e processo** | Documentação, padrões de código, revisão de fluxos e organização técnica. |
+| **Aprendizado contínuo** | IA generativa, Node.js, arquitetura limpa e evolução de produtos digitais. |
 
 </div>
+
+---
+
+## Stack tecnológica
+
+### Front-end e interfaces
+
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Angular Material](https://img.shields.io/badge/Angular_Material-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+### Back-end, dados e integrações
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Fastify](https://img.shields.io/badge/Fastify-0D1117?style=for-the-badge&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Spring](https://img.shields.io/badge/Spring_Framework-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![REST API](https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![DDL](https://img.shields.io/badge/DDL-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![DBeaver](https://img.shields.io/badge/DBeaver-0D1117?style=for-the-badge&logo=dbeaver&logoColor=382923)
+
+### Engenharia, colaboração e qualidade
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837)
+![HTTP](https://img.shields.io/badge/HTTP-0D1117?style=for-the-badge&logo=httpie&logoColor=73DC8C)
+![Documentação](https://img.shields.io/badge/Documentação_Técnica-0D1117?style=for-the-badge&logo=readthedocs&logoColor=8CA1AF)
+![Clean Architecture](https://img.shields.io/badge/Arquitetura_Limpa-0D1117?style=for-the-badge&logo=blueprint&logoColor=58A6FF)
+![Design Patterns](https://img.shields.io/badge/Padrões_de_Design-0D1117?style=for-the-badge&logo=dependabot&logoColor=025E8C)
+
+### Inteligência artificial e aprendizado
+
+![IA Generativa](https://img.shields.io/badge/IA_Generativa-0D1117?style=for-the-badge&logo=openai&logoColor=74AA9C)
+![Engenharia de Prompt](https://img.shields.io/badge/Engenharia_de_Prompt-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot_Studio-0D1117?style=for-the-badge&logo=microsoft&logoColor=5E5E5E)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![Aprendizado Contínuo](https://img.shields.io/badge/Aprendizado_Contínuo-0D1117?style=for-the-badge&logo=google-scholar&logoColor=4285F4)
+
+---
+
+## Experiência profissional
+
+### Kyros Tecnologia | Fábrica de Software
+
+#### Analista de Sistema VI
+`nov. 2025 — atual` · `tempo integral` · `híbrido` · `Uberlândia/MG`
+
+Como **Desenvolvedor Front-End Completo**, atuo na documentação e implementação de soluções para projetos. Além das atribuições exercidas anteriormente, ampliei minha participação em decisões estratégicas, estruturação de processos e definição de fluxos de desenvolvimento.
+
+- Desenvolvimento front-end completo, com foco em performance, arquitetura limpa, componentização, responsividade e usabilidade.
+- Participação ativa no desenho técnico dos projetos, análise de páginas, revisão de fluxos e definição de padrões de interface.
+- Escrita e manutenção de documentação técnica, processos e fluxos que apoiam a evolução das aplicações.
+- Colaboração na definição de DDLs, modelagem de dados, integrações com APIs e serviços utilizados pelo front-end.
+- Atuação em projetos internos e externos que modernizam a gestão da empresa, assegurando consistência técnica e qualidade de código.
+
+#### Analista de Sistema II
+`abr. 2025 — nov. 2025` · `tempo integral` · `remoto`
+
+- Concepção e desenvolvimento de projetos e interfaces com foco em front-end.
+- Análise de páginas, documentação de soluções e definição de fluxos contínuos de desenvolvimento.
+- Participação em projetos internos de modernização da gestão e projetos externos para clientes.
+- Criação de telas responsivas, processos estruturados e experiências com usabilidade e consistência visual.
+
+#### Estagiário de Desenvolvimento
+`out. 2023 — abr. 2025` · `estágio` · `remoto`
+
+- Atuação em desenvolvimento full stack em ambiente ágil, usando Java, Spring Boot, bancos de dados, HTML, CSS, JavaScript e TypeScript.
+- Desenvolvimento de aplicações e interfaces com React, Next.js, Bootstrap, Tailwind CSS e Shadcn/ui.
+- Correção de problemas, criação de endpoints e telas, melhoria de fluxos e colaboração em soluções escaláveis e manuteníveis.
+
+### Relotec Sistemas de Ponto e Acesso
+
+#### Suporte de Sistemas
+`mai. 2023 — set. 2023` · `tempo integral` · `presencial` · `Uberlândia/MG`
+
+- Suporte a sistemas de controle de ponto e acesso.
+- Diagnóstico e resolução de problemas técnicos para garantir continuidade operacional e uso eficiente das soluções.
+
+---
+
+## Projetos em destaque
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Portfólio</h3>
+      <p align="center">Uma vitrine do meu trabalho, trajetória e projetos em desenvolvimento web.</p>
+      <p align="center"><strong>TypeScript · Front-end</strong></p>
+      <p align="center"><a href="https://github.com/mat-henriqu/matheushdev-portfolio">Ver repositório →</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Podcast Manager</h3>
+      <p align="center">API REST em Node.js e TypeScript para listagem, filtros e paginação de episódios de podcast.</p>
+      <p align="center"><strong>Node.js · TypeScript · API REST</strong></p>
+      <p align="center"><a href="https://github.com/mat-henriqu/node-ts-webapi-without-frameworks-podcast-menager">Ver repositório →</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Finanças por conversa</h3>
+      <p align="center">Conceito de aplicativo mobile que usa IA conversacional para simplificar o controle financeiro.</p>
+      <p align="center"><strong>IA generativa · Produto · Mobile</strong></p>
+      <p align="center"><a href="https://github.com/mat-henriqu/dio-lab-vibe-coding-app-financas">Ver repositório →</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -155,23 +158,31 @@ Início da jornada profissional com atuação ampla em desenvolvimento full stac
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mat-henriqu&theme=react&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&locale=pt-br)](https://github.com/mat-henriqu)
+<a href="https://github.com/mat-henriqu">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mat-henriqu&theme=github_dark" alt="Estatísticas públicas do GitHub" />
+</a>
+<a href="https://github.com/mat-henriqu?tab=repositories">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mat-henriqu&theme=github_dark&utcOffset=-3" alt="Horários de maior atividade no GitHub" />
+</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mat-henriqu&theme=react&hide_border=true&locale=pt)](https://git.io/streak-stats)
+<a href="https://github.com/mat-henriqu?tab=repositories">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mat-henriqu&theme=github_dark" alt="Repositórios por linguagem" />
+</a>
+<a href="https://github.com/mat-henriqu?tab=repositories">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mat-henriqu&theme=github_dark" alt="Linguagens mais usadas em commits" />
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mat-henriqu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/mat-henriqu)
+<a href="https://git.io/streak-stats">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mat-henriqu&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+</a>
+
+<a href="https://github.com/mat-henriqu">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mat-henriqu&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Gráfico de atividade no GitHub" />
+</a>
 
 </div>
 
-### 📈 Gráfico de Atividade de Commits
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mat-henriqu&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/mat-henriqu)
-
-### 📈 Contribuições
-- 🏆 **292 contribuições** no último ano
-- 🚀 **30 repositórios públicos**
-- ⭐ **Múltiplos projetos estrelados**
-- 🎖️ **[Ver todos os Achievements](https://github.com/mat-henriqu?tab=achievements)**
+> Os cards usam informações públicas do GitHub e podem refletir alterações após o processamento dos provedores externos.
 
 ---
 
@@ -179,101 +190,62 @@ Início da jornada profissional com atuação ampla em desenvolvimento full stac
 
 <div align="center">
 
-### 🦈 [Pull Shark](https://github.com/mat-henriqu?tab=achievements&achievement=pull-shark)
-**Opened pull requests that have been merged**
-> Demonstra colaboração ativa e contribuições significativas através de pull requests aprovados
-
-### 🎯 [YOLO](https://github.com/mat-henriqu?tab=achievements&achievement=yolo)
-**Merged a pull request without code review**
-> Confiança e autonomia em entregas de código
-
-</div>
-
----
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mat-henriqu&theme=light)](https://github.com/mat-henriqu)
-</div>
-
----
-
-## 🎓 Formação & Certificações
-
-### 📚 Cursos e Bootcamps
-- ✅ **Formação HTML Web Developer** - DIO
-- ✅ **JavaScript** - Gustavo Guanabara
-- ✅ **Microsoft Azure AI Fundamentals** - DIO
-- ✅ **Bootcamp Java AI Powered** - DIO
-- ✅ **Linux do Zero** - DIO
-- ✅ **Trilha CSS Completa** - DIO (5 desafios)
-
----
-
-## 🌱 Aprendizado Contínuo
-
-Atualmente focado em:
-- 🔥 **Clean Architecture** e **Design Patterns**
-- 🚀 **Performance Optimization** em React/Next.js
-- 🐳 **Docker** e **Containerização**
-- ☁️ **Cloud Computing** (Azure & AWS)
-- 🤖 **Inteligência Artificial** aplicada ao desenvolvimento
-
----
-
-## 💡 Filosofia de Trabalho
-
-```typescript
-const developer = {
-  name: "Matheus Henrique",
-  location: "Uberlândia, MG 🇧🇷",
-  workStyle: "Remote First 🏠",
-  code: ["JavaScript", "TypeScript", "Java"],
-  focus: ["Clean Code", "Best Practices", "Team Collaboration"],
-  principles: {
-    quality: "Código limpo e manutenível",
-    scalability: "Soluções escaláveis e robustas",
-    learning: "Aprendizado contínuo",
-    teamwork: "Colaboração e comunicação"
-  },
-  currentlyLearning: ["Advanced TypeScript", "System Design", "Cloud Architecture"],
-  funFact: "Transformo café em código! ☕"
-};
-```
-
----
-
-## 📫 Vamos Conectar?
-
-<div align="center">
-
-### 🤝 Estou sempre aberto a novos desafios e oportunidades!
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visite_meu_site-FF5722?style=for-the-badge)](https://mat-henriqu.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conecte--se_comigo-0077B5?style=for-the-badge)](https://linkedin.com/in/mat-henriqu)
-[![Email](https://img.shields.io/badge/📧_Email-Entre_em_contato-D14836?style=for-the-badge)](mailto:theush933@gmail.com)
-[![DIO](https://img.shields.io/badge/🎓_DIO-Meu_Perfil-8A2BE2?style=for-the-badge)](https://www.dio.me/users/mat_henriqu/)
-
-**📍 Uberlândia, MG | 🇧🇷 Brasil**
-
----
-
-### 💬 "A melhor maneira de prever o futuro é criá-lo" 🚀
-
----
-
-<img src="https://komarev.com/ghpvc/?username=mat-henriqu&label=Visualizações%20do%20Perfil&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/mat-henriqu?achievement=quickdraw&tab=achievements">
+  <img width="96" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Achievement Quickdraw" />
+</a>
+<a href="https://github.com/mat-henriqu?achievement=pull-shark&tab=achievements">
+  <img width="96" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Achievement Pull Shark" />
+</a>
+<a href="https://github.com/mat-henriqu?achievement=yolo&tab=achievements">
+  <img width="96" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="Achievement YOLO" />
+</a>
 
 </div>
 
+| Achievement | Conquista |
+| :-- | :-- |
+| **Quickdraw** | Fechamento ágil de uma issue ou pull request. |
+| **Pull Shark** | Pull requests abertos e incorporados ao código. |
+| **YOLO** | Pull request incorporado sem revisão de código. |
+
+<p align="center"><a href="https://github.com/mat-henriqu?tab=achievements">Ver todos os achievements no GitHub →</a></p>
+
 ---
+
+## Licenças e certificações
+
+| Certificação | Instituição | Emissão | Competências em destaque |
+| :-- | :-- | :-- | :-- |
+| [Formação JavaScript Developer](https://hermes.dio.me/certificates/HNPMOWP4.pdf) | DIO | mai. 2024 | JavaScript, HTML, CSS e Git |
+| [Formação React Developer](https://hermes.dio.me/certificates/RDXPEEQJ.pdf) | DIO | jul. 2024 | React, Next.js, React Hooks, responsividade e design de front-end |
+| [Inteligência Artificial na Prática](https://hermes.dio.me/certificates/BJDAN5S8.pdf) | DIO | fev. 2026 | IA generativa, engenharia de prompt, Lovable e Microsoft Copilot Studio |
+| [Node.js](https://hermes.dio.me/certificates/ZMSKPSXA.pdf) | DIO | mai. 2026 | Node.js, TypeScript, API REST, Fastify e Express.js |
+| Lovable | Lovable | abr. 2026 | Desenvolvimento assistido por IA e prototipação de produtos |
+
+---
+
+## Foco atual
+
+- **Angular e front-end:** componentes reutilizáveis, interfaces responsivas, desempenho e experiência de uso.
+- **Node.js e APIs:** serviços TypeScript, contratos HTTP, integrações e boas práticas de back-end.
+- **Dados e processos:** DDLs, modelagem de dados, documentação técnica e fluxos de desenvolvimento.
+- **IA aplicada:** engenharia de prompt, ferramentas assistivas e uso de IA para acelerar a descoberta e a entrega de valor.
+
+---
+
+## Vamos conversar?
+
+Estou aberto a conexões, trocas técnicas e oportunidades para construir produtos digitais melhores.
+
+- [Portfólio](https://mat-henriqu.netlify.app)
+- [LinkedIn](https://linkedin.com/in/mat-henriqu)
+- [GitHub](https://github.com/mat-henriqu)
+- [Instagram](https://www.instagram.com/mat_henriqu/)
+- [ORCID](https://orcid.org/0009-0004-2592-1858)
+- [E-mail](mailto:theush933@gmail.com)
 
 <div align="center">
 
-**Desenvolvido com ❤️ por Matheus Henrique**
-
-⭐ **Se você gostou do meu trabalho, considere dar uma estrela em algum repositório!** ⭐
+<sub>Construindo soluções claras, escaláveis e centradas em pessoas.</sub>
 
 </div>
