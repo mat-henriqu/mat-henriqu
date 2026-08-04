@@ -2,7 +2,7 @@
 
 # Matheus Henrique
 
-### Analista de Sistema VI | Desenvolvedor Front-End Completo
+### Analista de Sistema VI | Desenvolvedor Full Stack - Especialista Front End
 
 Desenvolvo produtos digitais com interfaces eficientes, integrações consistentes e documentação que transforma decisões técnicas em soluções sustentáveis.
 
