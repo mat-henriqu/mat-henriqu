@@ -92,6 +92,15 @@ Atuo na **Kyros Tecnologia | Fábrica de Software**, contribuindo em projetos in
 
 ### Kyros Tecnologia | Fábrica de Software
 
+#### Analista de Sistemas VI | Desenvolvedor Full Stack | Sustentação de Produção
+`ago. 2026 — atual` · `tempo integral` · `remoto`
+
+Atuo como **Desenvolvedor Full Stack** em sustentação de produção, contribuindo para a estabilidade e a evolução de sistemas em ambiente produtivo.
+
+- Análise e resolução de incidentes, investigação de falhas e identificação de causa raiz.
+- Correções e melhorias em aplicações, APIs e bancos de dados, com acompanhamento de processos e integrações em produção.
+- Análise de logs e validação de soluções, atuando entre front-end, back-end e banco de dados.
+
 #### Analista de Sistema VI
 `nov. 2025 — atual` · `tempo integral` · `híbrido` · `Uberlândia/MG`
 
